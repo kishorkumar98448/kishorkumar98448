@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kishorkumar98448
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning BCA   
-- 💞️ I’m looking to collaborate on IT company
+- 🌱 I have finished my Bachelor in computer application in AI, ML, and Robotics with Microsoft 
+- 💞️ I’m looking to collaborate an IT company
 - 📫 How to reach me kishorkishorkumar10192@gmail.com
 
 <!---
